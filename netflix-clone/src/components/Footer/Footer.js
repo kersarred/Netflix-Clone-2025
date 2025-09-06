@@ -46,7 +46,9 @@ const Footer = () => {
         <div className="service_code">
           <p>Service Code</p>
         </div>
-        <div className="copy_write">&copy; 1997-2025 Netflix, Inc.</div>
+        <div className="copy_write">
+          &copy; 1997-2025 Netflix, Inc. Designed by Soliana Bisrat
+        </div>
       </div>
     </div>
   );
